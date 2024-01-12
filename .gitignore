@@ -11,3 +11,7 @@ node_modules
 
 # Ignore files related to API keys
 .env
+
+# Ignore files with credentials
+sendEmail.py
+example.py
